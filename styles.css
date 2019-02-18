@@ -39,3 +39,36 @@ span{
     border-radius: 50px;
     background-color: rgb(41, 62, 255);
 }
+h1{
+    color: red;
+}
+.original{
+    color: green;
+}
+.additional{
+    color: blue;
+}
+#show1{
+    color: yellow;
+}
+#show2{
+    color: deeppink;
+}
+#show3{
+    color: purple
+}
+#show4{
+    color: mediumpurple;
+}
+ul{
+    color: darkblue;
+}
+.star{
+    color: forestgreen;
+}
+#wars{
+    color: darkred;
+}
+.lists{
+    border: 2px solid black;
+}

@@ -1,0 +1,11 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: lightgray; 
+}
+h2, p, .readme-wrapper{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: red;
+}
